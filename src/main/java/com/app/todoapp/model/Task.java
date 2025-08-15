@@ -15,17 +15,17 @@ public class Task {
     private String title;
     private boolean completed;
 
-    public void setTitle(String title) {
-        this.title = title;
-    }
-
-    public void setCompleted(boolean b) {
-        this.completed = completed;
-    }
-
-    public boolean isCompleted() {
-        return completed;
-    }
+//    public void setTitle(String title) {
+//        this.title = title;
+//    }
+//
+//    public void setCompleted(boolean b) {
+//        this.completed = completed;
+//    }
+//
+//    public boolean isCompleted() {
+//        return completed;
+//    }
 
 
 }
